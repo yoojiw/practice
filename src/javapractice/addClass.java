@@ -11,4 +11,5 @@ package javapractice;
  */
 public class addClass {
     //I made a new bracn, and I added up this new ckass in it. 
+    //I think everything is going well. great. cheers. 
 }
